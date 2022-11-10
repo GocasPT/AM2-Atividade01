@@ -7,4 +7,6 @@ Trabalho feito por:
   * Henrique Marques
   * João Salgadoo
 
+Nota: 4,5/5
+
 @ISEC
