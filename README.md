@@ -1,4 +1,6 @@
-# Trabalho de Análise Matemática 2 - Atividade 01
+# AM2 - Atividade 01
+ISEC - Trabalho de AM2 [21/22] 
+
 MNuméricos para EDO/PVI
 -----------------------
 
@@ -8,5 +10,3 @@ Trabalho feito por:
   * João Salgadoo
 
 Nota: 4,5/5
-
-@ISEC
